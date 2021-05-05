@@ -1,0 +1,17 @@
+{
+  "name": "amrabdelfatah/design_patterns",
+  "description": "practicing Design Patterns",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
